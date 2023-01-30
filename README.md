@@ -1,2 +1,2 @@
 # TheBunker_Flappybirdclone
-Please switch to master branch!
+Please switch to master branch to view project!
